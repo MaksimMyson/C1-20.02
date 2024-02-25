@@ -17,7 +17,7 @@ namespace C1_20._02
                 return;
             }
 
-            if (number % 5 == 0 && number % 3 == 0) 
+            if (number % 5 == 0 && number % 3 == 0)  
             {
                 Console.WriteLine("Fizz\r\nBuzz");
             }
